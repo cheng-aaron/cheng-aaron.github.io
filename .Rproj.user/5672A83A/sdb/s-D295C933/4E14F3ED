@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About\"\n---\n\n### About this site \n\nThis site is currently being developed and updated, as a part of the Data Science course I'm currently taking at Columbia University's Mailman School of Public Health. As it is currently in development, my apologies for any mistakes or typos that may be present. ",
+    "created" : 1509380278094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3386701872",
+    "id" : "4E14F3ED",
+    "lastKnownWriteTime" : 1509380287,
+    "last_content_update" : 1509380287,
+    "path" : "~/Desktop/p8105_hw/p8105_hw4_prob3/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
