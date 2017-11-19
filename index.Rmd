@@ -1,12 +1,12 @@
 ---
-title: "Aaron Cheng's Webpage"
+title: "Aaron Cheng, MPH Candidate"
 ---
 
-### Welcome!
 
-![Meet Aaron!](https://github.com/cheng-aaron/p8105_hw4_prob3/blob/master/headshot_aaron.jpeg?raw=true)
+![](https://github.com/cheng-aaron/p8105_hw4_prob3/blob/master/headshot_aaron.jpeg?raw=true)
 
-#### Quick Introduction 
+
+### Quick Introduction 
 
 Aaron is currently a second year Master's in Public Health student at Columbia University's Mailman School of Public Health in the Department of Epidemiology with a certificate in Applied Biostatistics. Prior to coming to the Mailman School of Public Health, Aaron finished his Bachelors degree in International Nutrition from the University of British Columbia in Vancouver, Canada. He worked in global health for three years on home fortification projects in Sub-Saharan and Southeast Asian countries that looked to improve infant and young child feeding practices and reduce micronutrient deficiencies in children 6-24 months old.  
 
